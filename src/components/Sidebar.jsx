@@ -45,7 +45,7 @@ function Sidebar () {
         <div className='sidebar-container'>
             <ul className='sidebar-list list-unstyled'>
               <li className='sidebar-item mb-4'>
-                <Link to={'/home'}>
+                <Link className='text-decoration-none text-dark' to={'/home'}>
                   <div className='item-wrapper d-flex align-items-center'>
                     <img className='item-img me-3' src={Home} alt='item-img' width={20} height={19}/>
 
