@@ -1,0 +1,9 @@
+.user-wrapper {
+	cursor: pointer;
+	text-decoration: none;
+	color: black;
+}
+
+.wrapper {
+	width: 1200px;
+}

@@ -1,0 +1,19 @@
+.wrapper-cont {
+  width: 900px;
+  height: 1000px;
+  overflow-y: auto;
+}
+
+.cont-item {
+  padding-bottom: 20px;
+  border-bottom: 3px solid #979797;
+}
+
+.subscription-info-wrapper {
+  margin-right: 420px;
+}
+
+.videos-wrapper {
+  width: 400px;
+  flex-direction: column;
+}

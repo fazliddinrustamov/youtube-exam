@@ -1,0 +1,12 @@
+.item-wrapper {
+  cursor: pointer;
+}
+
+.sidebar {
+  width: 200px;
+  display: inline-block;
+}
+
+.profile-wrapper {
+  cursor: pointer;
+}

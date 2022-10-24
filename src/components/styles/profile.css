@@ -1,0 +1,31 @@
+.wrapper {
+  width: 1200px;
+}
+
+.subs-btn {
+  margin-left: 655px;
+}
+
+.navigation-wrapper {
+  width: 600px;
+}
+
+.navigation-item {
+  color: gray;
+  font-weight: bold;
+  cursor: pointer;
+  padding-bottom: 4px;
+  border-bottom: 3px solid white;
+  transition: 0.3s ease;
+}
+
+.navigation-item:hover {
+  font-weight: bold;
+  color: red;
+  padding-bottom: 4px;
+  border-bottom: 3px solid red;
+}
+
+.card-wrapper {
+  width: 1000px;
+}
